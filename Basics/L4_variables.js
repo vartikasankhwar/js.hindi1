@@ -15,3 +15,4 @@ accountPassword="8760"
 accountCity="delhi"
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
+console.log("vartika")
